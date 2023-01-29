@@ -1,0 +1,40 @@
+{
+    "intents": [
+        {
+            "tag": "services",
+            "questions": [
+                "What services does Spiral 8 Studio offer?",
+                "Can you tell me about the different divisions of Spiral 8 Studio?",
+                "What kind of work does Spiral 8 Studio specialize in?",
+                "What industries does Spiral 8 Studio work with?"
+            ],
+            "answer": "Spiral 8 Studio is a creative agency that offers a variety of services including Brand Strategy, Brand Design, Advertising, Social Media Management, Print Media, Web Development, Studio Production, and Information Technology Support. They work with clients across a wide range of sectors and disciplines."
+        },
+        {
+            "tag": "location",
+            "questions": [
+                "Where is Spiral 8 Studio located?",
+                "In which city is Spiral 8 Studio based?"
+            ],
+            "answer": "Spiral 8 Studio is based in Pretoria, South Africa."
+        },
+        {
+            "tag": "purpose",
+            "questions": [
+                "What is the goal of Spiral 8 Studio?",
+                "What does Spiral 8 Studio aim to achieve?",
+                "What is the purpose of Spiral 8 Studio?"
+            ],
+            "answer": "The goal of Spiral 8 Studio is to make brands successful by giving them purpose and structure, defining values, and creating a brand story. They aim to make brands stand out from the rest."
+        },
+        {
+            "tag": "partnerships",
+            "questions": [
+                "What kind of partnerships does Spiral 8 Studio form?",
+                "Who does Spiral 8 Studio work with?",
+                "Does Spiral 8 Studio work with local or international clients?"
+            ],
+            "answer": "Spiral 8 Studio works with a variety of clients, including visionaries, entrepreneurs, institutions, and brand leaders, both in South Africa and beyond. They form partnerships with these clients in order to create exceptional work."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "intents": [
+        {
+            "tag": "brand_strategy",
+            "questions": [
+                "What is brand strategy?",
+                "How do you develop a brand strategy?",
+                "Can you explain the importance of brand strategy?",
+                "How do you align a brand strategy with business goals?",
+                "What are the key elements of a brand strategy?",
+                "How do you measure the success of a brand strategy?",
+                "What is the role of a brand strategy in a company's overall marketing efforts?",
+                "How do you create a unique brand positioning?",
+                "How do you develop a brand personality?",
+                "Can you provide an example of a successful brand strategy?",
+                "How do you conduct a brand audit?",
+                "How do you create a brand roadmap?",
+                "What are the different types of brand strategies?",
+                "How do you create a brand voice?",
+                "What are the key components of a brand strategy?",
+                "How do you create a brand identity?",
+                "What are the benefits of having a strong brand strategy?",
+                "How do you create a brand story?",
+                "What is the difference between brand strategy and brand positioning?"
+            ],
+            "answer": "Brand strategy is a long-term plan for the development of a successful brand in order to achieve specific goals. The process involves researching, defining, and building the brand's elements such as the brand's identity, values, and positioning. It also involves creating a strategy to communicate and promote the brand. The key elements of a brand strategy include market research, brand positioning, target audience, and key messaging. A successful brand strategy aligns the brand with the business goals and creates a unique brand positioning in the market."
+        }
+    ]
+}
